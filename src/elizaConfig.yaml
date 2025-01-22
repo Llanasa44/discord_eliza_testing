@@ -1,0 +1,3 @@
+actions:
+  - name: dynamicEmojiAction
+    path: ./actions/react_to_message.ts
